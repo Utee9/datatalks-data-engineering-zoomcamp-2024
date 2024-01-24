@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "datatalks-de-351308",
+  "private_key_id": "fcafb3d971e93dc81d27d6b999d3832a2d80573c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeZRaO3VuXBPod\nGkcuaPxSJkVcZxGXa3kpc6aY9HXMhtgR/2cbJCDSY0AhCQPUPSNEGKjeCxvkJhBN\nQ2deD4g0MIA5LSKFgC9cxgq6PujNibeb0qafOkamyMTLhSqrw426FLyFOVBvDQOb\niR5+ZoNoceGMX/gCSTqUVrghuKEtWiT/pYw6EHabL7QYGXPutoxu40O0oHBCBuzS\n4CJi7gbTPxVYC1VkVtWIIRxbj4Fst5RcI+GRAu3OF6F9IAs1bL8JXFvYu4hmb7Ej\n8zQ3aXSZGKwNsAHmPsdwZNWtxnRtSkXxqX+RZraLcx+of+XotuoyAqfiwReGFDEr\nHhGRa4LhAgMBAAECggEABC3sKLRgCo3T0KlFGA0mnT9LxLqmfO2Vypl126LVqeIj\n+OOZk56CLDL4ufZsLrE3SUByUjuOTpiPhQ5if5me0Su3cmrFtqqRdVv3Y/8tcuDv\nopGuGlT2EMgK40jd/Z7BElgiOkyvGeMIxZWaY6DuVjbtCeBtYZgPjuLz5FXkENd9\nsTOOinMGIERzfhMiAYTAxLixrhXyVFO6Z5ke0hWz7DviRO6I9zBUbb7U9dRQWk9Y\nKBYRTfd4/joP2os8D1XYbPmIzhmmLsIFpsBov2jJvod4ISinO5Yb+rFyIFn1S8sp\nOGkGH9mc9ZyUKx87KN/vY8I0PdyXqnx75ll7EC1M3QKBgQDPrNzPWA5JmemGCGR1\n7L2+SVkoGgrJ94zVfoVlHWL1qqXoczIe06jCPO3W3wV0Iu/jaLkGqHt/8l4ne2h0\nVmH1FRN+8YSVis6VRkRxyO+wWELDUoW7MDAYwSctP44rqNg2Pps21QeqVD8SsT6h\n3tWZNS2V52NqcXBpPbXpFRUXBQKBgQDDQJy72Hy+Hbk+ThZ3HrDHHlP59QTXSfy9\ndRFcKdGudinZF8232IwVIhSPOVyv940SaL5nSH4bxuqmvIgp8I/gTE0KZ+f2wfzo\nYZQJxvY/FJOjIgMGPaY6zDGoBDW+52O8fWRKdPr2kYCxx6M6LZ428NO84rRjFeA8\nT/IlNJhLLQKBgBUiBRJAZqvMsrvF7NsnLSPI+P6gr8pfm4A6ML7aX7CaHenqlwYW\nCc1CP/2mkjqAN6MPjAyGZpLdigFAiJ+WDr/O1j4Lu68wAdek3+AoT2PFh32yzxL+\nU1ahiSgMmJ4Ov3m9ozPQN8h4bDatvK7iKyA9Dhd8BVzWkFbVRcajM5M1AoGBAIlg\niaaFUGd3hGG5EYdoeZrv1MgWw/wyG3i1yKwe5GAq1ZDgdaa33v/zhaGsC3Hn7EMa\nnXUQBWLH10vPdMKFdsWrCb2blBMDNE3Qchda/OEvOh1ajeQzNiVCjGGZ7LLQHVV+\nqDTXD8iyYWk0fL0vYZVoZqIMpDzfJHFrEoVo9wpVAoGAOOtLkacI3i5r8pIj0hIe\nAxf4+MqpFHs3UA8z6tx9PcocPKter6O5vGf3gn/Dbgbchox735btEdJqbZfNl17B\n7EqtAih5q1N3JV2A8GQ9w8WWD6jWmd8CzTXObqrgX55GSTyJLzuf4WfTwLAJ7w+O\n5IF9It4puR85w3nSxKDiBZM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "datatalks-de@datatalks-de-351308.iam.gserviceaccount.com",
+  "client_id": "103603976202989573498",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datatalks-de%40datatalks-de-351308.iam.gserviceaccount.com"
+}
