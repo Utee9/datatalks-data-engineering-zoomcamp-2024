@@ -1,0 +1,5 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "proud_maple"}, "timestamp": 1706796555, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "timeless_astronomer"}, "timestamp": 1706796928, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "electrifying_artifact"}, "timestamp": 1706797983, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "melodious_treasure"}, "timestamp": 1706799828, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "load_to_gcs_copy"}, "timestamp": 1706810743, "user": null}
