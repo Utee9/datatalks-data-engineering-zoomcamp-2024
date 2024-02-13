@@ -20,7 +20,7 @@ def export_data_to_google_cloud_storage(df: DataFrame, **kwargs) -> None:
     config_profile = 'default'
 
     bucket_name = 'dtc_data_lake_datatalks-de-351308'
-    object_key = 'green_trips_2022.csv'
+    object_key = 'green_trips_2022.parquet'
 
     GoogleCloudStorage.with_config(ConfigFileLoader(config_path, config_profile)).export(
         df,
