@@ -78,12 +78,12 @@ FROM datatalks-de-351308.trips_data_all.green_trips_2022;
 
 select  DISTINCT(PULocationID)
 from datatalks-de-351308.trips_data_all.green_trips_2022
-WHERE DATE(TIMESTAMP_MICROS(CAST(lpep_pickup_datetime / 1000 AS INT64))) BETWEEN '2022-06-01' AND '2022-06-29';
+WHERE DATE(TIMESTAMP_MICROS(CAST(lpep_pickup_datetime / 1000 AS INT64))) BETWEEN '2022-06-01' AND '2022-06-30';
 
 select  DISTINCT(PULocationID)
 from datatalks-de-351308.trips_data_all.green_tripdata_non_partitoned
-WHERE DATE(TIMESTAMP_MICROS(CAST(lpep_pickup_datetime / 1000 AS INT64))) BETWEEN '2022-06-01' AND '2022-06-29';
+WHERE DATE(TIMESTAMP_MICROS(CAST(lpep_pickup_datetime / 1000 AS INT64))) BETWEEN '2022-06-01' AND '2022-06-30';
 
 select  DISTINCT(PULocationID)
 from datatalks-de-351308.trips_data_all.green_tripdata_partitoned
-WHERE DATE(TIMESTAMP_MICROS(CAST(lpep_pickup_datetime / 1000 AS INT64))) BETWEEN '2022-06-01' AND '2022-06-29';
+WHERE DATE(TIMESTAMP_MICROS(CAST(lpep_pickup_datetime / 1000 AS INT64))) BETWEEN '2022-06-01' AND '2022-06-30';
